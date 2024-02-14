@@ -6,5 +6,6 @@ sources:
     schema: raw_data
     tables:
       - name: history_day
-      - name: forecast_day
-      - name: climatology_day
+      - name : forecast_day
+      - name : climatology_day
+

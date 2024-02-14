@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: standard_tile
-    database: global_weather_climate
-    schema: standard_tile
-    tables:
-      - name: climatology_day
